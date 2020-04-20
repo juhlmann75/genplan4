@@ -20,3 +20,23 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.display-3 {
+    font-size: 45px;
+    font-weight: 400;
+}
+.featureicon {
+	font-size:45px;
+	color:#002060;
+}
+.bg-dark {
+	background-color: #002060 !important;
+}
+.btn-primary {
+	background-color: #002060;
+    border-color: #002060;
+}
+
+.card-body {
+	flex:none;
+}
