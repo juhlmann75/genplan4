@@ -1,7 +1,7 @@
 <?php require 'header.php'; ?>
 
   <!-- Page Content -->
-  <div class="container">
+  <div class="container" style="margin-bottom:150px;">
 
     <!-- Page Heading/Breadcrumbs -->
     <h1 class="mt-4 mb-3">About
@@ -21,84 +21,26 @@
         <img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
       </div>
       <div class="col-lg-6">
-        <h2>About Modern Business</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
+        <h2>Who We Are</h2>
+        <p><b>Our Mission</b>: GenPlan4.xyz by Synergos Advisory LLC strives to help generations X, Y, and Z improve their quality of life by offering effective financial decision support services.</p>
+
+        <p><b>Our Vision</b>: To provide affordable, scalable financial services and create an online community of like-minded members who share a passion for taking control of their own financial future.</p>
+
+        <p><b>Who this works for</b>: This platform best serves those motivated to develop their own financial plans and who are comfortable with online, virtual support.</p>  
+
+        <p><b>Our Values</b>:</p>
+        <ul>
+          <li><b>Support</b></li> 
+
+          <li><b>Education</b></li> 
+
+          <li><b>Community</b></li> 
+
+          <li><b>Care</b></li> 
+        </ul>
       </div>
     </div>
     <!-- /.row -->
-
-    <!-- Team Members -->
-    <h2>Our Team</h2>
-
-    <div class="row">
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Team Member</h4>
-            <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#">name@example.com</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Team Member</h4>
-            <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#">name@example.com</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Team Member</h4>
-            <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#">name@example.com</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /.row -->
-
-    <!-- Our Customers -->
-    <h2>Our Customers</h2>
-    <div class="row">
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-    </div>
-    <!-- /.row -->
-
   </div>
   <!-- /.container -->
 <?php require 'footer.php'; ?>
