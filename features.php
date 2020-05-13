@@ -1,5 +1,11 @@
 <?php require 'header.php'; ?>
 
+<style>
+.row{
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+</style>
   <!-- Page Content -->
   <div class="container">
 
@@ -12,50 +18,125 @@
       <li class="breadcrumb-item">
         <a href="index.php">Home</a>
       </li>
-      <li class="breadcrumb-item active">Services</li>
+      <li class="breadcrumb-item active">Features</li>
     </ol>
 
-    <!-- Image Header -->
-    <img class="img-fluid rounded mb-4" src="http://placehold.it/1200x300" alt="">
+      <!-- Project One -->
+      <div class="row">
+        
+        <div class="col-md-6">
+          <h3>Budgeting</h3>
+          <p>Manage your budget, track spending in various categories and manage your expectations with future spending.</p>
+        </div>
+        <div class="col-md-6">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+          </a>
+        </div>
+      </div>
+      <!-- /.row -->
 
-    <!-- Marketing Icons Section -->
-    <div class="row">
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100">
-          <h4 class="card-header">Card Title</h4>
-          <div class="card-body">
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
+      <hr>
+
+      <!-- Project Two -->
+      <div class="row">
+        <div class="col-md-6">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+          </a>
+        </div>
+        <div class="col-md-6">
+          <h3>Student Loan Planning</h3>
+          <p>Struggling with student loan debt? Use our unique student loan module to illustrate different scenarios to potentially reduce payments.</p>
         </div>
       </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100">
-          <h4 class="card-header">Card Title</h4>
-          <div class="card-body">
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Three -->
+      <div class="row">
+        
+        <div class="col-md-6">
+          <h3>Interactive Retirement Planning</h3>
+          <p>Understand how prepared you are for retirement using our interactive tools. Compare multiple scenarios, illustrate stress tests and more.</p>
+        </div>
+        <div class="col-md-6">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+          </a>
         </div>
       </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100">
-          <h4 class="card-header">Card Title</h4>
-          <div class="card-body">
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Four -->
+      <div class="row">
+
+        <div class="col-md-6">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+          </a>
+        </div>
+        <div class="col-md-6">
+          <h3>Social Security Optimization</h3>
+          <p>View the impact of their decision on when to start receiving Social Security benefits and the optimal solution that will maximize your Social Security income.</p>
         </div>
       </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Three -->
+      <div class="row">
+        
+        <div class="col-md-6">
+          <h3>Account Aggregation</h3>
+          <p>Use account aggregation to link your bank accounts and credit cards for budgeting, as well as any externally-held investment accounts so you can have a full picture of your financial situation.</p>
+        </div>
+        <div class="col-md-6">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+          </a>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Four -->
+      <div class="row">
+
+        <div class="col-md-6">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+          </a>
+        </div>
+        <div class="col-md-6">
+          <h3>Estate Planning</h3>
+          <p>Understanding the flow of assets at the end of retirement, including any possible tax ramifications.</p>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Three -->
+      <div class="row">
+        
+        <div class="col-md-6">
+          <h3>Medicare Planning</h3>
+          <p>Approaching age 65? Do you know what your options are for enrolling in Medicare? Review your options.</p>
+        </div>
+        <div class="col-md-6">
+          <a href="#">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+          </a>
+        </div>
+      </div>
+      <!-- /.row -->
+
     </div>
-    <!-- /.row -->
-
-  </div>
-  <!-- /.container -->
+    <!-- /.container -->
 <?php require 'footer.php'; ?>
