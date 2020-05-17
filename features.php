@@ -29,9 +29,7 @@
           <p>Manage your budget, track spending in various categories and manage your expectations with future spending.</p>
         </div>
         <div class="col-md-6">
-          <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
-          </a>
+          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/feature-budget.png" alt="" width="700" height="300">
         </div>
       </div>
       <!-- /.row -->
@@ -41,9 +39,10 @@
       <!-- Project Two -->
       <div class="row">
         <div class="col-md-6">
-          <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
-          </a>
+          <video width="500" height="300" controls>
+            <source src="files/videos/feature-studentloans.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
         </div>
         <div class="col-md-6">
           <h3>Student Loan Planning</h3>
@@ -62,9 +61,10 @@
           <p>Understand how prepared you are for retirement using our interactive tools. Compare multiple scenarios, illustrate stress tests and more.</p>
         </div>
         <div class="col-md-6">
-          <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
-          </a>
+          <video width="500" height="300" controls>
+            <source src="files/videos/feature-retirement.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
         </div>
       </div>
       <!-- /.row -->
@@ -75,9 +75,7 @@
       <div class="row">
 
         <div class="col-md-6">
-          <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
-          </a>
+          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/feature-socialsecurity.png" alt="" width="700" height="300">
         </div>
         <div class="col-md-6">
           <h3>Social Security Optimization</h3>
@@ -96,9 +94,7 @@
           <p>Use account aggregation to link your bank accounts and credit cards for budgeting, as well as any externally-held investment accounts so you can have a full picture of your financial situation.</p>
         </div>
         <div class="col-md-6">
-          <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
-          </a>
+          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/feature-account.png" alt="" width="700" height="300">
         </div>
       </div>
       <!-- /.row -->
@@ -109,9 +105,7 @@
       <div class="row">
 
         <div class="col-md-6">
-          <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
-          </a>
+          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/feature-estate.png" alt="" width="700" height="300">
         </div>
         <div class="col-md-6">
           <h3>Estate Planning</h3>
@@ -130,9 +124,7 @@
           <p>Approaching age 65? Do you know what your options are for enrolling in Medicare? Review your options.</p>
         </div>
         <div class="col-md-6">
-          <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
-          </a>
+          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/feature-medicare.png" alt="" width="700" height="300">
         </div>
       </div>
       <!-- /.row -->

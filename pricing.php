@@ -91,16 +91,11 @@ section.pricing {
                 <h5 class="card-title text-muted text-uppercase text-center">Free</h5>
                 <h6 class="card-price text-center">$0<span class="period">/month</span></h6>
                 <hr>
-                <ul class="fa-ul">
+                <ul class="fa-ul" style="padding-bottom: 384px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Net Worth</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Cash Reserves</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Budget</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Debt</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Investment Allocation</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Retirement Analysis</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Insurance Analysis</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Online help, email and chat support</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Annual Phone Consultation with CFP&reg; professional</li>
                 </ul>
                 <a href="#" class="btn btn-block btn-primary text-uppercase">Get Started</a>
               </div>
@@ -114,7 +109,7 @@ section.pricing {
                 <h6 class="card-price text-center">$19.95<span class="period">/month</span></h6>
                 Fee waived with <b>$50,000</b> funding on our <u>Betterment Investment platform</u>
                 <hr>
-                <ul class="fa-ul">
+                <ul class="fa-ul" style="padding-bottom: 40px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Net Worth</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Cash Reserves</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Budget</li>
@@ -137,7 +132,7 @@ section.pricing {
                 <h6 class="card-price text-center">$39.95<span class="period">/month</span></h6>
                 Fee waived with <b>$100,000</b> funding on our <u>Betterment Investment platform</u>
                 <hr>
-                <ul class="fa-ul">
+                <ul class="fa-ul" style="padding-bottom: 56px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Essentials Features +</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Retirement Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Retirement Stress Test</li>
