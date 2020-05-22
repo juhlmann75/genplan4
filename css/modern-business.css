@@ -27,14 +27,14 @@ body {
 }
 .featureicon {
 	font-size:45px;
-	color:#002060;
+	color:#3333ff;
 }
 .bg-dark {
-	background-color: #002060 !important;
+	background-color: #3333ff !important;
 }
 .btn-primary {
-	background-color: #002060;
-    border-color: #002060;
+	background-color: #3333ff;
+    border-color: #3333ff;
 }
 
 .card-body {

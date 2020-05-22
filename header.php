@@ -23,6 +23,12 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
     <script src="https://kit.fontawesome.com/14ad12bde9.js" crossorigin="anonymous"></script>
+
+    <style>
+      .nav-link {
+        color:white !important;
+      }
+    </style>
 </head>
 
 <body>
@@ -40,7 +46,7 @@
             <a class="nav-link" href="features.php">Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="support.php">Support</a>
+            <a class="nav-link" href="http://help.genplan4.xyz" target="_blank">Support</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="pricing.php">Pricing</a>

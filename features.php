@@ -5,6 +5,17 @@
   padding-top: 75px;
   padding-bottom: 75px;
 }
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 100px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #3333ff;
+}
+.space {
+	height:60px;
+}
 </style>
   <!-- Page Content -->
   <div class="container">
@@ -39,7 +50,7 @@
       <!-- Project Two -->
       <div class="row">
         <div class="col-md-6">
-          <video width="500" height="300" controls>
+          <video width="500" height="300"  controls poster="files/images/feature-studentloan.png">
             <source src="files/videos/feature-studentloans.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
@@ -61,7 +72,7 @@
           <p>Understand how prepared you are for retirement using our interactive tools. Compare multiple scenarios, illustrate stress tests and more.</p>
         </div>
         <div class="col-md-6">
-          <video width="500" height="300" controls>
+          <video width="500" height="300" controls poster="files/images/feature-retirement.png">
             <source src="files/videos/feature-retirement.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
@@ -131,4 +142,12 @@
 
     </div>
     <!-- /.container -->
+    <footer class="footer">
+      <div class="container">
+      	<center>
+	        <a href="pricing.php" class="btn btn-block btn-primary text-uppercase" style="background-color: #002060;margin-top: 25px;width: 150px;">Sign Up!</a>
+	    </center>
+      </div>
+    </footer>
 <?php require 'footer.php'; ?>
+<div class="space"></div>
