@@ -46,6 +46,9 @@
             <a class="nav-link" href="features.php">Features</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="investment.php">Investment</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="http://help.genplan4.xyz" target="_blank">Support</a>
           </li>
           <li class="nav-item">

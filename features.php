@@ -145,7 +145,7 @@
     <footer class="footer">
       <div class="container">
       	<center>
-	        <a href="pricing.php" class="btn btn-block btn-primary text-uppercase" style="background-color: #002060;margin-top: 25px;width: 150px;">Sign Up!</a>
+	        <a href="pricing.php" class="btn btn-block btn-primary text-uppercase" style="background-color: white;color:#002060;margin-top: 25px;width: 150px;font-weight: bold;">Sign Up!</a>
 	    </center>
       </div>
     </footer>
