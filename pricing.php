@@ -97,7 +97,9 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Budget</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Debt</li>
                 </ul>
-                <a href="#" class="btn btn-block btn-primary text-uppercase">Get Started</a>
+                <form method="post" action="signup.php">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="free" value="Get Started">
+                </form>
               </div>
             </div>
           </div>
@@ -120,7 +122,9 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Online help, email and chat support</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Annual Phone Consultation with CFP&reg; professional</li>
                 </ul>
-                <a href="#" class="btn btn-block btn-primary text-uppercase">Get Started</a>
+                <form method="post" action="signup.php">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="essentials" value="Get Started">
+                </form>
               </div>
             </div>
           </div>
@@ -142,7 +146,9 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Estate Checklist</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Semi-annual Phone Consultation with CFP&reg; professional</li>
                 </ul>
-                <a href="#" class="btn btn-block btn-primary text-uppercase">Get Started</a>
+                <form method="post" action="signup.php">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="plus" value="Get Started">
+                </form>
               </div>
             </div>
           </div>
@@ -164,7 +170,9 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Estate Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Quarterly Phone Consultation with CFP&reg; professional</li>
                 </ul>
-                <a href="#" class="btn btn-block btn-primary text-uppercase">Get Started</a>
+                <form method="post" action="signup.php">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="advanced" value="Get Started">
+                </form>
               </div>
             </div>
           </div>

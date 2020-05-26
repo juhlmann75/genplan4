@@ -57,7 +57,7 @@
           <p>Betterment takes <a hre="">proven investment strategies</a> that have been around for decades and uses technology to make them more efficient.</p>
         </div>
         <div class="col-md-6">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/feature-budget.png" alt="" width="700" height="300">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/investment-1.jpeg" alt="" width="700" height="300">
         </div>
       </div>
       <!-- /.row -->
@@ -154,7 +154,7 @@
           <p>Betterment's investment philosophy is backed by decades of research that comes to an important conclusion: Over the long term, a diversified portfolio of low-cost index funds is likely to outperform a high-cost, actively managed portfolio. There are several portfolio options, and we can help you choose which is right for you.</p>
         </div>
         <div class="col-md-6">
-          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/feature-budget.png" alt="" width="700" height="300">
+          <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/investment-2.png" alt="" width="700" height="300">
         </div>
       </div>
       <!-- /.row -->
