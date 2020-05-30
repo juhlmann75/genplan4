@@ -89,16 +89,16 @@ section.pricing {
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Free</h5>
-                <h6 class="card-price text-center">$0<span class="period">/month</span></h6>
+                <h6 class="card-price text-center" style="padding-bottom: 73px;">$0<span class="period">/month</span></h6>
                 <hr>
-                <ul class="fa-ul" style="padding-bottom: 384px;">
+                <ul class="fa-ul" style="padding-bottom: 311px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Net Worth</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Cash Reserves</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Budget</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Debt</li>
                 </ul>
                 <form method="post" action="signup.php">
-                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="free" value="Get Started">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="free" value="Sign Up">
                 </form>
               </div>
             </div>
@@ -108,8 +108,8 @@ section.pricing {
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Essentials</h5>
-                <h6 class="card-price text-center">$19.95<span class="period">/month</span></h6>
-                Fee waived with <b>$50,000</b> funding on our <u>Betterment Investment platform</u>
+                <h6 class="card-price text-center">$25.00<span class="period">/month</span></h6>
+                Fee waived with <b>$50,000</b> funding on our <u>Betterment investment platform</u>
                 <hr>
                 <ul class="fa-ul" style="padding-bottom: 40px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Net Worth</li>
@@ -123,7 +123,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Annual Phone Consultation with CFP&reg; professional</li>
                 </ul>
                 <form method="post" action="signup.php">
-                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="essentials" value="Get Started">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="essentials" value="Sign Up">
                 </form>
               </div>
             </div>
@@ -133,8 +133,8 @@ section.pricing {
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Plus</h5>
-                <h6 class="card-price text-center">$39.95<span class="period">/month</span></h6>
-                Fee waived with <b>$100,000</b> funding on our <u>Betterment Investment platform</u>
+                <h6 class="card-price text-center">$45.00<span class="period">/month</span></h6>
+                Fee waived with <b>$100,000</b> funding on our <u>Betterment investment platform</u>
                 <hr>
                 <ul class="fa-ul" style="padding-bottom: 56px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Essentials Features +</li>
@@ -147,7 +147,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Semi-annual Phone Consultation with CFP&reg; professional</li>
                 </ul>
                 <form method="post" action="signup.php">
-                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="plus" value="Get Started">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="plus" value="Sign Up">
                 </form>
               </div>
             </div>
@@ -157,8 +157,8 @@ section.pricing {
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Advanced</h5>
-                <h6 class="card-price text-center">$79.95<span class="period">/month</span></h6>
-                Fee waived with <b>$200,000</b> funding on our <u>Betterment Investment platform</u>
+                <h6 class="card-price text-center">$80.00<span class="period">/month</span></h6>
+                Fee waived with <b>$200,000</b> funding on our <u>Betterment investment platform</u>
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>All Plus Features +</li>
@@ -171,7 +171,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Quarterly Phone Consultation with CFP&reg; professional</li>
                 </ul>
                 <form method="post" action="signup.php">
-                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="advanced" value="Get Started">
+                  <input type="submit" class="btn btn-block btn-primary text-uppercase" name="advanced" value="Sign Up">
                 </form>
               </div>
             </div>

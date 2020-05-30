@@ -18,26 +18,16 @@
     <!-- Intro Content -->
     <div class="row">
       <div class="col-lg-6">
-        <img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
+        <img class="img-fluid rounded mb-4" src="files/images/about.jpg" alt="" width="750">
       </div>
       <div class="col-lg-6">
         <h2>Who We Are</h2>
-        <p><b>Our Mission</b>: GenPlan4.xyz by Synergos Advisory LLC strives to help generations X, Y, and Z improve their quality of life by offering effective financial decision support services.</p>
+        <p><b>Our Mission</b>: To empower generations X, Y, and Z to strive for the quality of life they aspire to by providing them with effective financial decision support services.</p>
 
         <p><b>Our Vision</b>: To provide affordable, scalable financial services and create an online community of like-minded members who share a passion for taking control of their own financial future.</p>
 
-        <p><b>Who this works for</b>: This platform best serves those motivated to develop their own financial plans and who are comfortable with online, virtual support.</p>  
+        <p><b>Who this works for</b>: This platform best serves those motivated to develop their financial plans and who are comfortable with online, virtual support.</p>  
 
-        <p><b>Our Values</b>:</p>
-        <ul>
-          <li><b>Support</b></li> 
-
-          <li><b>Education</b></li> 
-
-          <li><b>Community</b></li> 
-
-          <li><b>Care</b></li> 
-        </ul>
       </div>
     </div>
     <!-- /.row -->

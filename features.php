@@ -144,9 +144,12 @@
     <!-- /.container -->
     <footer class="footer">
       <div class="container">
-      	<center>
-	        <a href="pricing.php" class="btn btn-block btn-primary text-uppercase" style="background-color: white;color:#002060;margin-top: 25px;width: 150px;font-weight: bold;">Sign Up!</a>
-	    </center>
+        <div class="row" style="padding-top: 25px;">
+        
+          <div class="col-sm-5" style="text-align: right;"><a href="pricing.php" class="btn  btn-primary text-uppercase" style="background-color: white;color:#002060;width: 200px;font-weight: bold;">Get Started</a></div>
+          <div class="col-sm-2" style="text-align: center;"><p style="color:white;font-weight: bold;">OR</p></div>
+          <div class="col-sm-5" style="text-align: left;"><a href="pricing.php" class="btn btn-primary text-uppercase" style="background-color: white;color:#002060;width: 350px;font-weight: bold;">Schedule Free Consultation</a></div>
+        </div>
       </div>
     </footer>
 <?php require 'footer.php'; ?>

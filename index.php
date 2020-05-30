@@ -10,7 +10,7 @@
       <div class="row">
         <div class="col-lg-6 mb-6">
           <h1 class="display-3">Take Charge of your Financial Future!</h1>
-          <p>Our innovative financial planning solution empowers you to manage your finances for the future you aspire to</p>
+          <p>Our innovative financial planning solution empowers you to manage your finances for the future you aspire to.</p>
           <p><a class="btn btn-primary btn-lg" href="features.php" role="button">Learn more &raquo;</a></p>
         </div>
         <div class="col-lg-6 mb-6">
@@ -43,7 +43,7 @@
           </div>
           <div class="col-sm-10">
             <h4>Account Aggregation</h4>
-            <p>You can use aggregation to link bank accounts, credit card, and externally-held investment accounts so you have your full financial picture</p>
+            <p>You can use aggregation to link bank accounts, credit card and externally-held investment accounts so you have your full financial picture</p>
           </div>
         </div>
       </div>
@@ -126,11 +126,10 @@
 
     <!-- Call to Action Section -->
     <div class="row mb-4">
-      <div class="col-md-8">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
-      </div>
-      <div class="col-md-4">
-        <a class="btn btn-lg btn-secondary btn-block" href="pricing.php">Plan Now!</a>
+      <div class="col-md-12">
+        <center>
+          <a class="btn btn-lg btn-primary btn-block" href="pricing.php" style="width:50%;">Get Started</a>
+        </center>
       </div>
     </div>
 

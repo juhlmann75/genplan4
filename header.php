@@ -36,7 +36,7 @@
   <!-- Navigation -->
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="index.php">GenPlan4</a>
+      <a class="navbar-brand" href="index.php"><img src="files/images/logo.png" width="200"/></a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -49,10 +49,10 @@
             <a class="nav-link" href="investment.php">Investment</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://help.genplan4.xyz" target="_blank">Support</a>
+            <a class="nav-link" href="pricing.php">Pricing</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pricing.php">Pricing</a>
+            <a class="nav-link" href="http://help.genplan4.xyz" target="_blank">Support</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>

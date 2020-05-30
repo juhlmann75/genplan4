@@ -129,7 +129,7 @@
       <div class="row">
         
         <div class="col-md-6">
-          <h3>When a fund loses value...</h3>
+          <h3>If a fund loses value...</h3>
         </div>
         <div class="col-md-6">
           <i class="fas fa-check taxes" style="margin-top: 7px;"></i>
@@ -151,7 +151,7 @@
         
         <div class="col-md-6">
           <h3>Invest in low-cost, tax-efficient portfolios.</h3>
-          <p>Betterment's investment philosophy is backed by decades of research that comes to an important conclusion: Over the long term, a diversified portfolio of low-cost index funds is likely to outperform a high-cost, actively managed portfolio. There are several portfolio options, and we can help you choose which is right for you.</p>
+          <p>Betterment's investment philosophy is backed by decades of research that comes to an important conclusion: Over the long term, a diversified portfolio of low-cost index funds is likely to outperform a high-cost, actively managed portfolio. There are multiple portfolio options, and we can help you choose which is right for you.</p>
         </div>
         <div class="col-md-6">
           <img class="img-fluid rounded mb-3 mb-md-0" src="files/images/investment-2.png" alt="" width="700" height="300">
@@ -163,9 +163,12 @@
     <!-- /.container -->
     <footer class="footer">
       <div class="container">
-      	<center>
-	        <a href="pricing.php" class="btn btn-block btn-primary text-uppercase" style="background-color: white;color:#002060;margin-top: 25px;width: 150px;font-weight: bold;">Sign Up!</a>
-	    </center>
+        <div class="row" style="padding-top: 25px;">
+        
+          <div class="col-sm-5" style="text-align: right;"><a href="pricing.php" class="btn  btn-primary text-uppercase" style="background-color: white;color:#002060;width: 200px;font-weight: bold;">Get Started</a></div>
+          <div class="col-sm-2" style="text-align: center;"><p style="color:white;font-weight: bold;">OR</p></div>
+          <div class="col-sm-5" style="text-align: left;"><a href="pricing.php" class="btn btn-primary text-uppercase" style="background-color: white;color:#002060;width: 350px;font-weight: bold;">Schedule Free Consultation</a></div>
+        </div>
       </div>
     </footer>
 <?php require 'footer.php'; ?>
