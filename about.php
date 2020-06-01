@@ -22,7 +22,7 @@
       </div>
       <div class="col-lg-6">
         <h2>Who We Are</h2>
-        <p><b>Our Mission</b>: To empower generations X, Y, and Z to strive for the quality of life they aspire to by providing them with effective financial decision support services.</p>
+        <p><b>Our Mission</b>: To empower generations X, Y, and Z with effective financial planning tools and services to help them attain the quality of life they aspire to.</p>
 
         <p><b>Our Vision</b>: To provide affordable, scalable financial services and create an online community of like-minded members who share a passion for taking control of their own financial future.</p>
 

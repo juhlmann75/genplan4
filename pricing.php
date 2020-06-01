@@ -108,8 +108,8 @@ section.pricing {
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Essentials</h5>
-                <h6 class="card-price text-center">$25.00<span class="period">/month</span></h6>
-                Fee waived with <b>$50,000</b> funding on our <u>Betterment investment platform</u>
+                <h6 class="card-price text-center">$25<span class="period">/month</span></h6>
+                Fee waived with <b>$50,000</b> funding on our <a href="investment.php">Betterment investment platform</a>
                 <hr>
                 <ul class="fa-ul" style="padding-bottom: 40px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Net Worth</li>
@@ -133,8 +133,8 @@ section.pricing {
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Plus</h5>
-                <h6 class="card-price text-center">$45.00<span class="period">/month</span></h6>
-                Fee waived with <b>$100,000</b> funding on our <u>Betterment investment platform</u>
+                <h6 class="card-price text-center">$45<span class="period">/month</span></h6>
+                Fee waived with <b>$100,000</b> funding on our <a href="investment.php">Betterment investment platform</a>
                 <hr>
                 <ul class="fa-ul" style="padding-bottom: 56px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Essentials Features +</li>
@@ -157,8 +157,8 @@ section.pricing {
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Advanced</h5>
-                <h6 class="card-price text-center">$80.00<span class="period">/month</span></h6>
-                Fee waived with <b>$200,000</b> funding on our <u>Betterment investment platform</u>
+                <h6 class="card-price text-center">$80<span class="period">/month</span></h6>
+                Fee waived with <b>$200,000</b> funding on our <a href="investment.php">Betterment investment platform</a>
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>All Plus Features +</li>

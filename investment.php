@@ -31,9 +31,7 @@
     <div class="container">
       <div class="row" style="padding:0">
         <div class="col-lg-6 mb-6">
-          <h1 class="display-3">Investments Powered by Betterment</h1>
-          <br>
-          <p><a class="btn btn-primary btn-lg" href="pricing.php" role="button">Sign Up &raquo;</a></p>
+          <h1 class="display-3" style="margin-top: 10%;">Investments Powered by Betterment</h1>
         </div>
         <div class="col-lg-6 mb-6">
           <iframe src="https://www.youtube.com/embed/GguDOpP8I_g" width="500" height="270" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
