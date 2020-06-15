@@ -46,7 +46,7 @@
             <a class="nav-link" href="features.php">Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="investment.php">Investment</a>
+            <a class="nav-link" href="investment.php">Investments</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="pricing.php">Pricing</a>
@@ -59,6 +59,15 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="about.php">About</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Portal
+            </a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+              <a class="dropdown-item" href="">Right Captial</a>
+              <a class="dropdown-item" href="">Betterment Investments</a>
+            </div>
           </li>
 <!---
           <li class="nav-item dropdown">
@@ -88,3 +97,6 @@
     </div>
   </nav>
 
+<!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

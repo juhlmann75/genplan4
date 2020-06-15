@@ -148,7 +148,7 @@
         
           <div class="col-sm-5" style="text-align: right;"><a href="pricing.php" class="btn  btn-primary text-uppercase" style="background-color: white;color:#002060;width: 200px;font-weight: bold;">Get Started</a></div>
           <div class="col-sm-2" style="text-align: center;"><p style="color:white;font-weight: bold;">OR</p></div>
-          <div class="col-sm-5" style="text-align: left;"><a href="pricing.php" class="btn btn-primary text-uppercase" style="background-color: white;color:#002060;width: 350px;font-weight: bold;">Schedule Free Consultation</a></div>
+          <div class="col-sm-5" style="text-align: left;"><a href="schedule.php" class="btn btn-primary text-uppercase" style="background-color: white;color:#002060;width: 350px;font-weight: bold;">Schedule Free Consultation</a></div>
         </div>
       </div>
     </footer>

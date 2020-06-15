@@ -120,7 +120,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Student Loan Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Insurance Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Online help, email and chat support</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Annual Phone Consultation with CFP&reg; professional</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Annual Phone Consultation with Financial Advisor</li>
                 </ul>
                 <form method="post" action="signup.php">
                   <input type="submit" class="btn btn-block btn-primary text-uppercase" name="essentials" value="Sign Up">
@@ -144,7 +144,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Insurance Disability Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Tax Estimate</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Estate Checklist</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Semi-annual Phone Consultation with CFP&reg; professional</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Semi-annual Phone Consultation with Financial Advisor</li>
                 </ul>
                 <form method="post" action="signup.php">
                   <input type="submit" class="btn btn-block btn-primary text-uppercase" name="plus" value="Sign Up">
@@ -168,7 +168,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Retirement Distribution Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Long Term Care and Property/Casualty</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Estate Analysis</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Quarterly Phone Consultation with CFP&reg; professional</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Quarterly Phone Consultation with Financial Advisor</li>
                 </ul>
                 <form method="post" action="signup.php">
                   <input type="submit" class="btn btn-block btn-primary text-uppercase" name="advanced" value="Sign Up">
