@@ -67,12 +67,12 @@
         
         <div class="col-md-6">
           <h3>Save more on taxes</h3>
-          <p>Automated trading and tax-saving strategies, including asset location and tax loss harvesting can help reduce tax impact.</p>
+          <p>Automated trading and tax-saving strategies, including asset location and tax loss harvesting, can help reduce tax impact.</p>
         </div>
         <div class="col-md-6">
           <i class="fas fa-check taxes"></i><p class="taxes-text">We can help determine which combination of traditional, Roth, and taxable accounts - all taxed differently - may be appropriate for your specific situation.</p>
           <div style="clear: both;"></div>
-          <i class="fas fa-check taxes"></i><p class="taxes-text">We use ETFs which are generally more tax-efficient and lower-cost than mutual funds, which is why we have all-ETF portfolios.</p>
+          <i class="fas fa-check taxes"></i><p class="taxes-text">Betterment uses ETFs which are generally more tax-efficient and lower-cost than mutual funds, which is why we have all-ETF portfolios.</p>
           <div style="clear: both;"></div>
           <i class="fas fa-check taxes"></i><p class="taxes-text">Assets are organized based on taxes. High-tax assets belong in IRAs and low-tax assets belong in taxable accounts. We can help you decide if turning on the automated asset location feature is right for your situation.</p>
         </div>

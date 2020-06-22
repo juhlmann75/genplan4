@@ -24,6 +24,8 @@
 
     <script src="https://kit.fontawesome.com/14ad12bde9.js" crossorigin="anonymous"></script>
 
+
+
     <style>
       .nav-link {
         color:white !important;
@@ -65,8 +67,8 @@
               Portal
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-              <a class="dropdown-item" href="">Right Captial</a>
-              <a class="dropdown-item" href="">Betterment Investments</a>
+              <a class="dropdown-item" href="https://www.rightcapital.com/sign-up?referral=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank">Right Captial</a>
+              <a class="dropdown-item" href="https://wwws.betterment.com/synergy-advisory-llc-dba-synergos-advisory/app/advised_signup/basic_info/new" target="_blank">Betterment Investments</a>
             </div>
           </li>
 <!---
@@ -97,6 +99,3 @@
     </div>
   </nav>
 
-<!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

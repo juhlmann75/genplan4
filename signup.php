@@ -50,7 +50,7 @@ else{
 
         <input type="text" class="form-control mb-4" id="inputAddress" placeholder="Address Line 1" name="address1" required="required">
 
-        <input type="text" class="form-control mb-4" id="inputAddress2" placeholder="Address Line 2" name="address2" required="required">
+        <input type="text" class="form-control mb-4" id="inputAddress2" placeholder="Address Line 2" name="address2">
 
         <div class="form-row mb-4">
             <div class="col">
@@ -118,7 +118,7 @@ else{
         </div>
 
         <div class="custom-control custom-checkbox" style="text-align: left;">
-          <input type="checkbox" class="custom-control-input" id="defaultRegisterInvestment" required="required" onclick="toggleInv();">
+          <input type="checkbox" class="custom-control-input" id="defaultRegisterInvestment" onclick="toggleInv();">
           <label class="custom-control-label" for="defaultRegisterInvestment">Create investment account on our Betterment platform?</label>
         </div>
 

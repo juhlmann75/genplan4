@@ -108,7 +108,7 @@ section.pricing {
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Essentials</h5>
-                <h6 class="card-price text-center">$25<span class="period">/month</span></h6>
+                <h6 class="card-price text-center">$29<span class="period">/month</span></h6>
                 Fee waived with <b>$50,000</b> funding on our <a href="investment.php">Betterment investment platform</a>
                 <hr>
                 <ul class="fa-ul" style="padding-bottom: 40px;">
@@ -120,7 +120,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Student Loan Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Insurance Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Online help, email and chat support</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Annual Phone Consultation with Financial Advisor</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Annual Consultation with Financial Advisor</li>
                 </ul>
                 <form method="post" action="signup.php">
                   <input type="submit" class="btn btn-block btn-primary text-uppercase" name="essentials" value="Sign Up">
@@ -133,7 +133,7 @@ section.pricing {
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Plus</h5>
-                <h6 class="card-price text-center">$45<span class="period">/month</span></h6>
+                <h6 class="card-price text-center">$49<span class="period">/month</span></h6>
                 Fee waived with <b>$100,000</b> funding on our <a href="investment.php">Betterment investment platform</a>
                 <hr>
                 <ul class="fa-ul" style="padding-bottom: 56px;">
@@ -144,7 +144,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Insurance Disability Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Tax Estimate</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Estate Checklist</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Semi-annual Phone Consultation with Financial Advisor</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Semi-annual Consultation with Financial Advisor</li>
                 </ul>
                 <form method="post" action="signup.php">
                   <input type="submit" class="btn btn-block btn-primary text-uppercase" name="plus" value="Sign Up">
@@ -157,7 +157,7 @@ section.pricing {
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Advanced</h5>
-                <h6 class="card-price text-center">$80<span class="period">/month</span></h6>
+                <h6 class="card-price text-center">$89<span class="period">/month</span></h6>
                 Fee waived with <b>$200,000</b> funding on our <a href="investment.php">Betterment investment platform</a>
                 <hr>
                 <ul class="fa-ul">
@@ -168,7 +168,7 @@ section.pricing {
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Retirement Distribution Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Long Term Care and Property/Casualty</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Estate Analysis</li>
-                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Quarterly Phone Consultation with Financial Advisor</li>
+                  <li><span class="fa-li"><i class="fas fa-check"></i></span>Quarterly Consultation with Financial Advisor</li>
                 </ul>
                 <form method="post" action="signup.php">
                   <input type="submit" class="btn btn-block btn-primary text-uppercase" name="advanced" value="Sign Up">
