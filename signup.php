@@ -134,11 +134,11 @@ else{
 
         <div class="custom-control custom-checkbox" style="text-align: left;">
           <input type="checkbox" class="custom-control-input" id="defaultRegisterFormTerms" required="required">
-          <label class="custom-control-label" for="defaultRegisterFormTerms">By checking this box, you acknowledge that you have read and agreed to the terms and conditions.</label>
+          <label class="custom-control-label" for="defaultRegisterFormTerms">By checking this box, you acknowledge that you have read and agreed to the <a href="files/GenPlan Terms and Conditions.pdf" target="_blank">terms and conditions</a>.</label>
         </div>
         <div class="custom-control custom-checkbox" style="text-align: left;">
           <input type="checkbox" class="custom-control-input" id="defaultRegisterFormNewsPrivacy" required="required">
-          <label class="custom-control-label" for="defaultRegisterFormNewsPrivacy">By checking this box, you acknowledge receipt of the <a href="https://synergosadvice.com/files/ADV_Part_2A_2B.pdf" target="_blank">regulatory ADV file</a> and <a href="https://synergosadvice.com/files/Privacy_Policy.pdf" target="_blank">Privacy Policy</a>.</label>
+          <label class="custom-control-label" for="defaultRegisterFormNewsPrivacy">By checking this box, you acknowledge receipt of the <a href="files/ADV_Part_2A_2B.pdf" target="_blank">regulatory ADV file</a> and <a href="files/GenPlan4 Privacy Policy.pdf" target="_blank">Privacy Policy</a>.</label>
         </div>
 
         <!-- Sign up button -->
