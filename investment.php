@@ -34,7 +34,7 @@
           <h1 class="display-3" style="margin-top: 10%;">Investments Powered by Betterment</h1>
         </div>
         <div class="col-lg-6 mb-6">
-          <iframe src="https://www.youtube.com/embed/GguDOpP8I_g" width="500" height="270" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/GguDOpP8I_g?loop=1&playlist=GguDOpP8I_g" width="500" height="270" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
          
         </div>
       </div>
@@ -72,7 +72,7 @@
         <div class="col-md-6">
           <i class="fas fa-check taxes"></i><p class="taxes-text">We can help determine which combination of traditional, Roth, and taxable accounts - all taxed differently - may be appropriate for your specific situation.</p>
           <div style="clear: both;"></div>
-          <i class="fas fa-check taxes"></i><p class="taxes-text">Betterment uses ETFs which are generally more tax-efficient and lower-cost than mutual funds, which is why we have all-ETF portfolios.</p>
+          <i class="fas fa-check taxes"></i><p class="taxes-text">Betterment uses ETFs which are generally more tax-efficient and lower-cost than mutual funds, which is why they have all-ETF portfolios.</p>
           <div style="clear: both;"></div>
           <i class="fas fa-check taxes"></i><p class="taxes-text">Assets are organized based on taxes. High-tax assets belong in IRAs and low-tax assets belong in taxable accounts. We can help you decide if turning on the automated asset location feature is right for your situation.</p>
         </div>

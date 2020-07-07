@@ -91,7 +91,7 @@ section.pricing {
                 <h5 class="card-title text-muted text-uppercase text-center">Free</h5>
                 <h6 class="card-price text-center" style="padding-bottom: 73px;">$0<span class="period">/month</span></h6>
                 <hr>
-                <ul class="fa-ul" style="padding-bottom: 311px;">
+                <ul class="fa-ul" style="padding-bottom: 287px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Net Worth</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Cash Reserves</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Budget</li>
@@ -136,7 +136,7 @@ section.pricing {
                 <h6 class="card-price text-center">$49<span class="period">/month</span></h6>
                 Fee waived with <b>$100,000</b> funding on our <a href="investment.php">Betterment investment platform</a>
                 <hr>
-                <ul class="fa-ul" style="padding-bottom: 56px;">
+                <ul class="fa-ul" style="padding-bottom: 32px;">
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Essentials Features +</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Retirement Analysis</li>
                   <li><span class="fa-li"><i class="fas fa-check"></i></span>Retirement Stress Test</li>

@@ -67,7 +67,7 @@
               Portal
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-              <a class="dropdown-item" href="https://www.rightcapital.com/login?referral=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank">RightCaptial</a>
+              <a class="dropdown-item" href="https://www.rightcapital.com/login?referral=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank">RightCapital</a>
               <a class="dropdown-item" href="https://wwws.betterment.com/synergy-advisory-llc-dba-synergos-advisory/app/login" target="_blank">Betterment Investments</a>
             </div>
           </li>

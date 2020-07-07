@@ -76,7 +76,7 @@
       
       <div class="col-lg-4 mb-4">
         <div class="row">
-          <div class="col-sm-2">
+          <div class="col-sm-2" style="padding-left: 10px;">
             <i class="fas fa-balance-scale featureicon"></i>
           </div>
           <div class="col-sm-10">
