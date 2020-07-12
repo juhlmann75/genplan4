@@ -157,6 +157,39 @@
       </div>
       <!-- /.row -->
 
+
+      <!--row -->
+      <div class="row">
+        
+        <div class="col-md-12">
+          <table class="table table-bordered">
+            <thead>
+              <tr style="background-color: #3333FF; color:white;">
+                <th></th>
+                <th>GenPlan4.xyz Fee</th>
+                <th>Betterment Custodian Fee</th>
+                <th>Total Annual Advisory Fee</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>$1 - $1,000,000</td>
+                <td>0.50%</td>
+                <td>0.20%</td>
+                <td>0.70%</td>
+              </tr>
+              <tr>
+                <td>$1,000,001 +</td>
+                <td>0.25%</td>
+                <td>0.20%</td>
+                <td>0.45%</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!-- /.row -->
+
     </div>
     <!-- /.container -->
     <footer class="footer">

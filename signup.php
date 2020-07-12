@@ -1,7 +1,63 @@
 <?php require 'header.php'; ?>
 
 <?php
-if ($_SERVER["REQUEST_METHOD"] != "POST") {?>
+
+if(isset($_POST['submit'])){ 
+
+	//var_dump($_POST);
+	    $Package = strip_tags(htmlspecialchars($_POST['package']));
+		$FirstName = strip_tags(htmlspecialchars($_POST['firstname']));
+		$LastName = strip_tags(htmlspecialchars($_POST['lastname']));
+		$Phone = strip_tags(htmlspecialchars($_POST['phonenumber']));
+		$PrimaryEmailAddress  = strip_tags(htmlspecialchars($_POST['email']));
+		$StreetAddressLine1 = strip_tags(htmlspecialchars($_POST['address1']));
+		$StreetAddressLine2 = strip_tags(htmlspecialchars($_POST['address2']));
+		$City = strip_tags(htmlspecialchars($_POST['city']));
+		$State = strip_tags(htmlspecialchars($_POST['state']));
+		$Zip = strip_tags(htmlspecialchars($_POST['zipcode']));
+		$Betterment = "Off";
+		$FundingLevel = "None";
+		if(isset($_POST['betterment'])){ 
+			$Betterment = "On";
+			$FundingLevel = strip_tags(htmlspecialchars($_POST['fundLevel']));
+		}
+		
+
+		$to = 'genplan4@robot.zapier.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+		$email_subject = "GenPlan4.xyz Sign-up Form:  $FirstName $LastName";
+		$email_body = 	"Package: $Package\n".
+						"First Name: $FirstName\n".
+						"Last Name: $LastName\n".
+						"Phone: $Phone\n".
+						"Primary Email Address: $PrimaryEmailAddress\n".
+						"Street Address Line 1: $StreetAddressLine1\n".
+						"Street Address Line 2: $StreetAddressLine2\n".
+						"City: $City\n".
+						"State: $State\n".
+						"Zip: $Zip\n".
+						"Betterment: $Betterment\n".
+						"Funding Level: $FundingLevel\n".
+						"RightCapital: On\n";
+		$headers = "From: $PrimaryEmailAddress\n";  
+
+		mail($to,$email_subject,$email_body,$headers);
+	?>
+<div class="text-center" style="padding-top:125px;padding-bottom: 15%;">
+	<h1 class="display-3">Thank you for submitting the sign up form!</h1>
+	<p class="lead">You should receive an email indicating the next steps as we process your order.  If you don't see it in your inbox, please check your spam folder.</p>
+	<hr>
+	<p>
+		Having trouble? <a href="contact.php">Contact us</a>
+	</p>
+	<p class="lead">
+		<a class="btn btn-primary btn-sm" href="index.php" role="button">Continue to homepage</a>
+	</p>
+</div>
+
+
+<?php
+}
+else if ($_SERVER["REQUEST_METHOD"] != "POST") {?>
   <script>window.location.replace("pricing.php");</script>
 <?php
 }
@@ -20,8 +76,9 @@ else{
   else if( isset($_POST['advanced']) ) {
     $packageName = 'Advanced';
   }
-}
 ?>
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 
@@ -29,8 +86,8 @@ else{
   <div class="container">
 
         <!-- Default form register -->
-    <form class="text-center p-5" action="#!">
-
+    <form class="text-center p-5" method="post">
+    	<input type="hidden" name="package" value="<?php echo $packageName; ?>">
         <p class="h4 mb-4">Submit form to onboard for the <?php echo $packageName; ?> package</p>
 
         <div class="form-row mb-4">
@@ -120,17 +177,17 @@ else{
         </div>
 
         <div class="custom-control custom-checkbox" style="text-align: left;">
-          <input type="checkbox" class="custom-control-input" id="defaultRegisterInvestment" onclick="toggleInv();">
+          <input type="checkbox" class="custom-control-input" id="defaultRegisterInvestment" onclick="toggleInv();" name="betterment">
           <label class="custom-control-label" for="defaultRegisterInvestment">Create investment account on our Betterment platform?</label>
         </div>
 
         <div id="investmentAccount" style="display: none;text-align: left;margin-left: 25px;">
           <b>Funding Level:</b><br>
-          <input type="radio" id="fundLevel1" name="fundLevel">
+          <input type="radio" id="fundLevel1" name="fundLevel" value="One">
           <label for="fundLevel1">$50,000 - $100,000</label><br>
-          <input type="radio" id="fundLevel2" name="fundLevel">
+          <input type="radio" id="fundLevel2" name="fundLevel" value="Two">
           <label for="fundLevel2">$100,001 - $200,000</label><br>
-          <input type="radio" id="fundLevel3" name="fundLevel">
+          <input type="radio" id="fundLevel3" name="fundLevel" value="Three">
           <label for="fundLevel3">$200,001 +</label><br>
         </div>
 
@@ -144,16 +201,14 @@ else{
         </div>
 
         <!-- Sign up button -->
-        <button class="btn my-4 btn-block" type="submit" style="background-color: #3333ff;color:white;">Submit</button>
+        <input class="btn my-4 btn-block" type="submit" name="submit" style="background-color: #3333ff;color:white;" value="Submit">
 
     </form>
     <!-- Default form register -->
   </div>
   <br><br>
   <!-- /.container -->
-<?php require 'footer.php'; ?>
-
-<script type="text/javascript">
+  <script type="text/javascript">
   
 function toggleInv(){
   if(document.getElementById("defaultRegisterInvestment").checked == true){
@@ -164,3 +219,9 @@ function toggleInv(){
   }
 }
 </script>
+
+ <?php
+ }
+?>
+<?php require 'footer.php'; ?>
+
