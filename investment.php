@@ -165,7 +165,7 @@
           <table class="table table-bordered">
             <thead>
               <tr style="background-color: #3333FF; color:white;">
-                <th></th>
+                <th>Account Funding</th>
                 <th>GenPlan4.xyz Fee</th>
                 <th>Betterment Custodian Fee</th>
                 <th>Total Annual Advisory Fee</th>

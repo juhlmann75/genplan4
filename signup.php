@@ -10,8 +10,6 @@ if(isset($_POST['submit'])){
 		$LastName = strip_tags(htmlspecialchars($_POST['lastname']));
 		$Phone = strip_tags(htmlspecialchars($_POST['phonenumber']));
 		$PrimaryEmailAddress  = strip_tags(htmlspecialchars($_POST['email']));
-		$StreetAddressLine1 = strip_tags(htmlspecialchars($_POST['address1']));
-		$StreetAddressLine2 = strip_tags(htmlspecialchars($_POST['address2']));
 		$City = strip_tags(htmlspecialchars($_POST['city']));
 		$State = strip_tags(htmlspecialchars($_POST['state']));
 		$Zip = strip_tags(htmlspecialchars($_POST['zipcode']));
@@ -30,8 +28,6 @@ if(isset($_POST['submit'])){
 						"Last Name: $LastName\n".
 						"Phone: $Phone\n".
 						"Primary Email Address: $PrimaryEmailAddress\n".
-						"Street Address Line 1: $StreetAddressLine1\n".
-						"Street Address Line 2: $StreetAddressLine2\n".
 						"City: $City\n".
 						"State: $State\n".
 						"Zip: $Zip\n".
@@ -106,10 +102,6 @@ else{
 
         <!-- Phone number -->
         <input type="text" id="defaultRegisterPhonePassword" class="form-control mb-4" placeholder="Phone number" aria-describedby="defaultRegisterFormPhoneHelpBlock" name="phonenumber" required="required">
-
-        <input type="text" class="form-control mb-4" id="inputAddress" placeholder="Address Line 1" name="address1" required="required">
-
-        <input type="text" class="form-control mb-4" id="inputAddress2" placeholder="Address Line 2" name="address2">
 
         <div class="form-row mb-4">
             <div class="col">
