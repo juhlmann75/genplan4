@@ -37,6 +37,10 @@ if(isset($_POST['submit'])){
 		$headers = "From: $PrimaryEmailAddress\n";  
 
 		mail($to,$email_subject,$email_body,$headers);
+
+		$to = 'david@genplan4.xyz';
+		mail($to,$email_subject,$email_body,$headers);
+
 	?>
 <div class="text-center" style="padding-top:125px;padding-bottom: 15%;">
 	<h1 class="display-3">Thank you for submitting the sign up form!</h1>
