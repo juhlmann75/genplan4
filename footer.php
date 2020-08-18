@@ -13,6 +13,7 @@
         <li><a href="https://synergosadvice.com/files/ADV_Part_2A_2B.pdf" target="_blank" class="text-white footer-text" style="text-decoration: underline;">Form ADV Part 2A</a></li>
       </ul>
       <p class="text-white footer-text">Investments in securities: Not FDIC Insured * No Bank Guarantee * May Lose Value. Investing in securities involves risks, and there is always the potential of losing money when you invest in securities. Before investing, consider your investment objectives and GenPlan4.xyz's charges and expenses. Past performance does not guarantee future results, and likelihood of investment outcomes are hypothetical in nature. See full disclosures for more information. Not an offer, solicitation of an offer, or advice to buy or sell securities in jurisdictions where GenPlan4.xyz is not registered.</p>
+      <span style="float:right" id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=Sge0668AljbXQ8d0DxWNYtuH9FWXyrVPeWPO4m42on3GZQVVJCcyC57XG2zw"></script></span>
     </div>
     <!-- /.container -->
   </footer>
